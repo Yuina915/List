@@ -1,5 +1,5 @@
 import UIKit
-
+ 
 enum Animal: String, CaseIterable {
     case cat
     case cow
